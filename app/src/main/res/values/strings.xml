@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotesApplication</string>
+
+    <string name="action_sign_in">Login</string>
+    <string name="prompt_user_name">User Name</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="action_sign_in_short">sign in</string>
+</resources>
